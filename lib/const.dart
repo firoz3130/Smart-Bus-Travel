@@ -1,0 +1,9 @@
+const nl = "\n";
+const tl = "\t";
+const from = "From";
+const to = "to";
+const phno = "Phone Number: ";
+const numberOftTickets = "Number of Tickets Booked: ";
+const star = "✨✨✨✨✨✨✨✨✨✨✨";
+const eligibleOrNot = "YOU CAN ENTER THE BUS!!🎁😎\nEnjoy the journey😉";
+const paymentStatus = "\t\t✔✔Payment Completed✔✔";
