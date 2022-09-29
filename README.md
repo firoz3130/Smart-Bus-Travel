@@ -1,6 +1,6 @@
 # loginmyapp
 You can clone this repo
-git clone " https://github.com/firoz3130/Smart-Bus-Travel/"your repo""
+git clone " https://github.com/firoz3130/Smart-Bus-Travel/" your repo""
 This simple Flutter App provides ticketless, continuous, short as well as long journeys.
 It just needs us get a UNIQUE QR code for the journey.
 <table>
