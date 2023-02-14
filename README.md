@@ -1,4 +1,4 @@
-# loginmyapp
+# Mobile Application For Smart Ticketing
 You can clone this repo
 git clone " https://github.com/firoz3130/Smart-Bus-Travel/" your repo""
 This simple Flutter App provides ticketless, continuous, short as well as long journeys.
